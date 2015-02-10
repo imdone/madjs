@@ -1,4 +1,4 @@
-[2015-02-07 MadJS presentation +madjs due:2015-02-09 profile:imdone user:piascikj](#DOING:0)
+[x 2015-02-09 2015-02-07 MadJS presentation +madjs due:2015-02-09 profile:imdone user:piascikj](#DONE:0)
 
 iMDone
 ====
