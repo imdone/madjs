@@ -15,10 +15,6 @@
   },
   "lists": [
     {
-      "name": "DOING",
-      "hidden": false
-    },
-    {
       "name": "DONE",
       "hidden": false
     }

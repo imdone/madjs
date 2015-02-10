@@ -1,4 +1,7 @@
-[x 2015-02-09 2015-02-07 MadJS presentation +madjs due:2015-02-09 profile:imdone user:piascikj](#DONE:0)
+Links
+----
+- [iMDone - Chrome Web Store](https://chrome.google.com/webstore/detail/imdone/kchfkmdhgpibgidhdllkbgfnpmefdldl)
+- [The story behind imdone](http://blog.imdone.io)
 
 iMDone
 ====
@@ -62,9 +65,4 @@ Metadata links
   }
 ```
 
-Links
-----
-- [iMDone - Chrome Web Store](https://chrome.google.com/webstore/detail/imdone/kchfkmdhgpibgidhdllkbgfnpmefdldl)
-- [The story behind imdone](http://blog.imdone.io)
-
-
+[x 2015-02-09 2015-02-07 MadJS presentation +madjs due:2015-02-09 profile:imdone user:piascikj](#DONE:0)
